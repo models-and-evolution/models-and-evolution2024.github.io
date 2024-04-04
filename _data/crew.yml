@@ -1,7 +1,7 @@
 - abr:
   name: Ankica Barisic
   employer: Universite Cote d’Azur - I3S - INRIA Kairos (France)
-  photo: abl.jpg
+  photo: ankica.jpg
   role: pc
 - abu:
   name: Alessio Bucaioni
@@ -16,10 +16,10 @@
 - ncf:
   name: Nelly Condori Fernandez
   employer: Universidade da Coruna Galicia (Spain)
-  photo: abl.jpg
+  photo: nelly.jpg
   role: pc
 - jsc:
-  name: Jesùs Sànchez Cuadrado
+  name: Jes&uacute;s S&aacute;nchez Cuadrado
   employer: Universidad de Murcia (Spain)
   photo: jesus.jpg
   role: pc
@@ -31,12 +31,12 @@
 - meh:
   name: Mahmoud El Hamlaoui
   employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
-  photo: abl.jpg
+  photo: mahmoud.png
   role: pc
 - aed:
-  name: Antonio Garc ́ıa-Dom ́ınguez
+  name: Antonio Garc&iacute;a-Dom&iacute;nguez
   employer: University of York (UK)
-  photo: abl.jpg
+  photo: antonio.jpg
   role: pc
 - fkh:
   name: Faezeh Khorram
@@ -51,7 +51,7 @@
 - fp:
   name: Francisca Perez
   employer: San Jorge University (Spain)
-  photo: abl.jpg
+  photo: francisca.png
   role: pc
 - sp:
   name: Saheed Popoola
@@ -65,8 +65,8 @@
   role: pc
 - js:
   name: Juha Savolainen
-  employer: University of Jyv ̈askyl ̈a (Finland)
-  photo: abl.jpg
+  employer: University of Jyv&auml;skyl&auml; (Finland)
+  photo: juha_s.jpeg
   role: pc
 - jpt: 
   name: Juha-Pekka Tolvanen

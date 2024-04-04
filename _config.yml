@@ -32,8 +32,8 @@ navigation:
    url: /sponsors/
  - title: Members
    url: /orga/
-# - title: Past Editions
-#   url: /past-editions/
+ - title: Past Editions
+   url: /past-editions/
  - title: Contact
    url: /contacts/
 

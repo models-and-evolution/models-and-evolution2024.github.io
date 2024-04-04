@@ -18,7 +18,7 @@ html {
 }
 
 a {
-    color: #111;
+    color: #5cd32d;
     transition: .3s all
 }
 
@@ -282,7 +282,7 @@ p {
 }
 
 a {
-    color: inherit
+    color: #197006
 }
 
 .title strong {
