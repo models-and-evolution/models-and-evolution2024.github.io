@@ -6,7 +6,7 @@
 - abu:
   name: Alessio Bucaioni
   employer: Malardalen University (Sweden)
-  photo: abl.jpg
+  photo: alessio.jpg
   role: pc
 - rc:
   name: Ruzanna Chitchyan
@@ -19,14 +19,14 @@
   photo: abl.jpg
   role: pc
 - jsc:
-  name: Jes ́us S ́anchez Cuadrado
+  name: Jesùs Sànchez Cuadrado
   employer: Universidad de Murcia (Spain)
-  photo: abl.jpg
+  photo: jesus.jpg
   role: pc
 - ads:
   name: Amleto Di Salle
   employer: Grans Sasso Science Institute (Italy)
-  photo: abl.jpg
+  photo: amleto.jpg
   role: pc
 - meh:
   name: Mahmoud El Hamlaoui
@@ -61,7 +61,7 @@
 - ad:
   name: Adrian Rutle
   employer: Western Norway University of Applied Sciences (Norway)
-  photo: abl.jpg
+  photo: adrian.jpg
   role: pc
 - js:
   name: Juha Savolainen
@@ -71,7 +71,7 @@
 - jpt: 
   name: Juha-Pekka Tolvanen
   employer: MetaCase (Finland)
-  photo: abl.jpg
+  photo: juha.jpg
   role: pc
 - mz:
   name: Man Zhang
@@ -81,30 +81,30 @@
 - jdr:
   name: Juri Di Rocco
   employer: University of L'Aquila (Italy)
-  photo: abl.jpg
+  photo: juri.jpg
   role: po
 - li:
   name: Ludovico Iovino
   employer: Gran Sasso Science Institute (Italy)
-  photo: abl.jpg
+  photo: ludo.jpg
   role: sc
 - ap:
   name: Alfonso Pierantonio
   employer: University of L'Aquila (Italy)
   role: sc
-  photo: abl.jpg
+  photo: alfonso.jpg
 - dt:
   name: Dalila Tamzalit
   employer: LS2N, Université de Nantes (France)
   role: sc
-  photo: abl.jpg
+  photo: dalila.jpg
 - dt2:
   name: Dalila Tamzalit
   employer: LS2N, Université de Nantes (France)
   role: po
-  photo: abl.jpg
+  photo: dalila.jpg
 - dek:
   name: Djamel Eddine Khelladi
   employer: CNRS, IRISA, University of Rennes (France)
-  photo: abl.jpg
+  photo: djamel.jpg
   role: po
