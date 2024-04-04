@@ -26,16 +26,16 @@ exclude:
 navigation:
  - title: Call for Papers
    url: /call-for-paper/
- - title: Program
-   url: /speakers/
+# - title: Program
+#   url: /speakers/
  - title: Important Dates
    url: /sponsors/
  - title: Members
    url: /orga/
- - title: Past Editions
-   url: /past-editions/
+# - title: Past Editions
+#   url: /past-editions/
  - title: Contact
-   url: /contact/
+   url: /contacts/
 
 
 collections:
