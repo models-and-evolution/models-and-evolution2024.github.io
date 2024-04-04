@@ -1,0 +1,105 @@
+- abr:
+  name: Ankica Barisic
+  employer: Universite Cote d’Azur - I3S - INRIA Kairos (France)
+  photo: abl.jpg
+  role: pc
+- abu:
+  name: Alessio Bucaioni
+  employer: Malardalen University (Sweden)
+  photo: abl.jpg
+  role: pc
+- rc:
+  name: Ruzanna Chitchyan
+  employer: University of Bristol (UK)
+  photo: abl.jpg
+  role: pc
+- ncf:
+  name: Nelly Condori Fernandez
+  employer: Universidade da Coruna Galicia (Spain)
+  photo: abl.jpg
+  role: pc
+- jsc:
+  name: Jes ́us S ́anchez Cuadrado
+  employer: Universidad de Murcia (Spain)
+  photo: abl.jpg
+  role: pc
+- ads:
+  name: Amleto Di Salle
+  employer: Grans Sasso Science Institute (Italy)
+  photo: abl.jpg
+  role: pc
+- meh:
+  name: Mahmoud El Hamlaoui
+  employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
+  photo: abl.jpg
+  role: pc
+- aed:
+  name: Antonio Garc ́ıa-Dom ́ınguez
+  employer: University of York (UK)
+  photo: abl.jpg
+  role: pc
+- fkh:
+  name: Faezeh Khorram
+  employer: Univ. Rennes (France)
+  photo: abl.jpg
+  role: pc
+- hk:
+  name: Harald Koenig
+  employer: University of applied Sciences FHDW Hannover (Germany)
+  photo: abl.jpg
+  role: pc
+- fp:
+  name: Francisca Perez
+  employer: San Jorge University (Spain)
+  photo: abl.jpg
+  role: pc
+- sp:
+  name: Saheed Popoola
+  employer: University of Cincinnati (US)
+  photo: abl.jpg
+  role: pc
+- ad:
+  name: Adrian Rutle
+  employer: Western Norway University of Applied Sciences (Norway)
+  photo: abl.jpg
+  role: pc
+- js:
+  name: Juha Savolainen
+  employer: University of Jyv ̈askyl ̈a (Finland)
+  photo: abl.jpg
+  role: pc
+- jpt: 
+  name: Juha-Pekka Tolvanen
+  employer: MetaCase (Finland)
+  photo: abl.jpg
+  role: pc
+- mz:
+  name: Man Zhang
+  employer: Kristiania University College, Oslo (Norway)
+  photo: abl.jpg
+  role: pc
+- jdr:
+  name: Juri Di Rocco
+  employer: Universy of L'Aquila (Italy)
+  photo: abl.jpg
+  role: po
+- li:
+  name: Ludovico Iovino
+  employer: Gran Sasso Science Institute (Italy)
+  photo: abl.jpg
+  role: sc
+- ap:
+  name: Alfonso Pierantonio
+  employer: University of L'Aquila (Italy)
+  role: sc
+  photo: abl.jpg
+- dt:
+  name: Dalila Tamzalit
+  employer: LS2N, Université de Nantes (France)
+  role: sc
+  photo: abl.jpg
+- dt2:
+  name: Dalila Tamzalit
+  employer: LS2N, Université de Nantes (France)
+  role: po
+  photo: abl.jpg

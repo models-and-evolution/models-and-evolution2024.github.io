@@ -1,0 +1,127 @@
+---
+layout: default
+title: Volcamp 2024
+---
+    
+<section class="block">
+    <div class="content">
+        <section class="section-banner d-flex align-items-center" style="background:url(https://www.volcamp.io/asset/images/bg-banner.png) no-repeat center top #6fc660">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7 mr-auto">
+                        <div class="banner-content"><span>{{ site.day1 }} - {{ site.day2 }} {{ site.month }}</span>
+                            <h1 class="mt-3 mb-5">M&E</h1>
+                            <span>18th edition of the interational workshop on Models and Evolutions</span>
+                        </div>
+                    </div>
+                    <div class="col-4 pres_wa counter-over">
+                        <!-- <img src="{{ site.url }}/asset/images/photogroupe2022.jpg" alt="Team Volcamp {{ site.data-year }}" class="img-fluid"> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section about">
+            <div class="container">
+                <div class="row">
+                    <!-- <div class="col-lg-5">
+                        <div class="about-img position-relative"><img src="https://www.volcamp.io/asset/images/home/confhall32.jpg" alt="" class="img-fluid w-100">
+                            <div class="img-block"><img src="https://www.volcamp.io/asset/images/home/confback.jpg" alt="" class="img-fluid"></div>
+                        </div>
+                    </div> -->
+                    <div class="col-lg-12">
+                        <div class="about-content-wrap mt-5 mt-lg-0"><span class="stroke-text">Workshop</span>
+                            <div class="ml-90">
+                                <h2 class="text-lg mb-3 mt-3">Motivations</h2>
+                                <p>Model artifacts are subject to constant evolution throughout the lifecycle of sys-
+                                    tems. The evolutionary pressure emerges from various technical and business
+                                    factors throughout the overall software/system engineering endeavor. Pertinent
+                                    examples of such factors include changing requirements, changing environment,
+                                    and changing user base, all of which give rise to unique evolutionary challenges in
+                                    various system artifacts from architecture to implementation, and even in infor-
+                                    mal artifacts, such as documentation. These challenges, if left unmanaged, may
+                                    lead to deteriorating quality attributes, and in severe cases inconsistent artifacts
+                                    or even incorrect artifacts, preventing the system from operating as intended.
+                                    Therefore, proper support for efficient and effective evolution is required.
+                                    The Models and Evolution workshop promotes novel theories, techniques, and
+                                    tools to support evolution. To this end, the workshop brings together researchers
+                                    and practitioners to discuss the latest developments on the topic.
+                                </p></div>
+                                <div class="ml-90">
+                                    <h2 class="text-lg mb-3 mt-3">Objectives</h2>
+                                    <p>Model artifacts are subject to constant evolution throughout the lifecycle of sys-
+                                        tems. The evolutionary pressure emerges from various technical and business
+                                        factors throughout the overall software/system engineering endeavor. Pertinent
+                                        examples of such factors include changing requirements, changing environment,
+                                        and changing user base, all of which give rise to unique evolutionary challenges in
+                                        various system artifacts from architecture to implementation, and even in infor-
+                                        mal artifacts, such as documentation. These challenges, if left unmanaged, may
+                                        lead to deteriorating quality attributes, and in severe cases inconsistent artifacts
+                                        or even incorrect artifacts, preventing the system from operating as intended.
+                                        Therefore, proper support for efficient and effective evolution is required.
+                                        The Models and Evolution workshop promotes novel theories, techniques, and
+                                        tools to support evolution. To this end, the workshop brings together researchers
+                                        and practitioners to discuss the latest developments on the topic.
+                                    </p></div>
+                        </div>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+
+       
+        
+        <section class="section-speaker section">
+            <div class="container">
+                <div class="row section-heading">
+                    <div class="col-lg-8">
+                        <div class="heading"><span class="stroke-text">Keynote</span>
+                            <div class="pl-90">
+                                <h2>TBA</h2>
+                                <dive class="ml-90">
+                                    <p>Coming soon.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="row">
+                    {% assign speakers = site.speakers | where: "keynotes", true | sort_natural: 'name' %}
+                    {% for speaker in speakers %}
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="speaker-block mb-5">
+                            <div class="img-block"><img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-fluid">
+                                <ul class="list-inline speaker-social">
+                                    <li class="list-inline-item"><a href="{{ site.url }}{{ speaker.url }}"><i class="icon-mic"></i></a></li>
+                                    {% if speaker.twitter != 'none' %}<li class="list-inline-item"><a href="https://twitter.com/{{ speaker.twitter }}" class="tw"><i class="icon-twitter"></i></a></li>{% endif %}
+                                    {% if speaker.linkedin != 'none' %}<li class="list-inline-item"><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" class="lnked"><i class="icon-linkedin-squared"></i></a></li>{% endif %}
+                                </ul>
+                            </div>
+                            <div class="speaker-info">
+                                <h4 class="mb-0 mt-3">{{ speaker.name }}</h4>
+                            </div>
+                        </div>
+                    </div>
+                    {% else %}
+                        Coming soon.
+                    {% endfor %}
+                </div> -->
+            </div>
+        </section>
+
+        <section class="cta-2 section section-location">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="cta-img"><img src="{{ site.url }}/asset/images/JKU.jpg" alt="" class="img-fluid">
+                            <div class="contact-info box-shadow">
+                                <h6 class="text-color mb-3">{{ site.day1 }}, {{ site.day2 }} {{ site.month }}</h6>
+                                <p class="lead">Johannes Kepler University Linz<br>Austria</p><a href="https://conf.researchr.org/venue/models-2024/models-2024-venue"><i class="icon-location mr-2"></i>Place</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</section>

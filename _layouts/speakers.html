@@ -1,0 +1,49 @@
+{% assign speaker = page %}
+{% assign page.title = speaker.title %}
+{% include head.html %}
+<div class="main">
+<section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="content text-center">
+                    <h1 class="mb-3 text-white text-capitalize letter-spacing">Intervenant</h1>
+                    <div class="divider mx-auto mb-4 bg-white"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-speaker section">
+    <div class="container">
+        <div class="row section-heading">
+            <div class="col-lg-8">
+                <div class="heading">
+                    <div class="pl-90">
+                        <h2>{{ speaker.title }}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' %}
+            <div class="col-lg-4">
+                <img src="{{ site.url }}/asset/images/speakers/{{ speaker.photo }}" alt="{{ speaker.title }}" class="img-fluid rounded" width="350" height="350">
+            </div>
+            <div class="col-lg-8">
+                <p>{{ content | markdownify }}</p>
+                <p>
+                {% if speaker.twitter != 'none' %}<i class="icon-twitter"></i><a href="https://twitter.com/{{ speaker.twitter }}">{{ speaker.twitter }}</a> {% endif %}
+                {% if speaker.linkedin != 'none' %}<i class="icon-linkedin-squared"></i><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}">{{ speaker.linkedin }}</a> {% endif %}
+                </p>
+                <hr>
+                <p>
+                    <i class="icon-mic"></i>{% assign counter = 0 %}{% assign talks = site.talks | where: "speakers", speaker.title | sort_natural: 'title' %}{% for talk in talks %}{% if counter != 0 %}, {% endif %}{{ talk.slot | slot: "%d/%m/%Y" }} : <a href="{{ talk.url }}">{{ talk.title }}</a>{% assign counter = counter | plus: 1 %}{% endfor %}
+                </p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</section>
+</div>
+{% include footer.html %}
