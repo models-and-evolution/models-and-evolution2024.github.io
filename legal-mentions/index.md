@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp - Mentions legales
+title: Models and Evolution - Legals
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">

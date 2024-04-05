@@ -1,3 +1,3 @@
-Sitemap: https://www.volcamp.io/sitemap.xml
+Sitemap: https://models-and-evoution.github.io/sitemap.xml
 User-agent: *
 Disallow: /asset/

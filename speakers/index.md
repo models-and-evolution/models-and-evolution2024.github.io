@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp - Les intervenants
+title: Models and Evolution - Program
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">

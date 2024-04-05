@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp - Contactez-nous
+title: Models and Evolution - Contact
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">

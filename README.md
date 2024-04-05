@@ -1,6 +1,6 @@
-# volcamp.github.io
+# models-and-evolution.github.io
 
-The Volcamp conference website.
+The Models and Evolution workshop website.
 
 # Development
 

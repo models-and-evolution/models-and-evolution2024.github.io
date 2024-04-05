@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volcamp - L'équipe
+title: Models and Evolution - Organizers
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
