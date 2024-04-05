@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Models and Evolutions - Important Dates
+title: Models and Evolution - Important Dates
 ---
 <section class="page-header" style="background-image:url(https://www.volcamp.io/asset/images/chainedespuys_header.jpg);">
     <div class="container">
