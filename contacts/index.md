@@ -24,7 +24,7 @@ title: Models and Evolution - Contact
                 
                 <ul>
                     <li>Djamel Eddine Khelladi - djamel-eddine.khelladi[at]irisa.fr</li>
-                    <li>Juri Di Rocco - juri.dirocco[at]univa.it</li>
+                    <li>Juri Di Rocco - juri.dirocco[at]univaq.it</li>
                     <li>Dalila TAMZALIT - dalila.tamzalit[at]univ-nantes.fr</li>
                     
                 </ul>
