@@ -1,51 +1,16 @@
-- abr:
-  name: Ankica Barisic
-  employer: Universite Cote d’Azur - I3S - INRIA Kairos (France)
-  photo: ankica.jpg
-  role: pc
-- abu:
-  name: Alessio Bucaioni
-  employer: Malardalen University (Sweden)
-  photo: alessio.jpg
-  role: pc
-- rc:
-  name: Ruzanna Chitchyan
-  employer: University of Bristol (UK)
-  photo: abl.jpg
-  role: pc
-- ncf:
-  name: Nelly Condori Fernandez
-  employer: Universidade da Coruna Galicia (Spain)
-  photo: nelly.jpg
-  role: pc
-- jsc:
-  name: Jes&uacute;s S&aacute;nchez Cuadrado
-  employer: Universidad de Murcia (Spain)
-  photo: jesus.jpg
-  role: pc
 - ads:
   name: Amleto Di Salle
   employer: Grans Sasso Science Institute (Italy)
   photo: amleto.jpg
   role: pc
-- meh:
-  name: Mahmoud El Hamlaoui
-  employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
-  photo: mahmoud.png
+- kes:
+  name: Wael Kessentini
+  employer: DePaul University (US)
+  photo: kes.jpeg
   role: pc
-- aed:
-  name: Antonio Garc&iacute;a-Dom&iacute;nguez
-  employer: University of York (UK)
-  photo: antonio.jpg
-  role: pc
-- fkh:
-  name: Faezeh Khorram
-  employer: Univ. Rennes (France)
-  photo: abl.jpg
-  role: pc
-- hk:
-  name: Harald Koenig
-  employer: University of applied Sciences FHDW Hannover (Germany)
+- sp:
+  name: Saheed Popoola
+  employer: University of Cincinnati (US)
   photo: abl.jpg
   role: pc
 - fp:
@@ -53,30 +18,60 @@
   employer: San Jorge University (Spain)
   photo: francisca.png
   role: pc
-- sp:
-  name: Saheed Popoola
-  employer: University of Cincinnati (US)
-  photo: abl.jpg
+- sandra:
+  name: Sandra Greiner
+  employer: University of Southern (Denmark)
+  photo: sandra.jpg
   role: pc
-- ad:
-  name: Adrian Rutle
-  employer: Western Norway University of Applied Sciences (Norway)
-  photo: adrian.jpg
+- robb:
+  name: Robbert Jongeling
+  employer: Malardalen University (Sweden)
+  photo: robbert.jpeg
   role: pc
-- js:
-  name: Juha Savolainen
-  employer: University of Jyv&auml;skyl&auml; (Finland)
-  photo: juha_s.jpeg
+- meh:
+  name: Mahmoud El Hamlaoui
+  employer: ENSIAS, Rabat IT Center, UM5R (Morocco)
+  photo: mahmoud.png
+  role: pc
+- tlc:
+  name: Théo Le Calvar
+  employer: IMT Atlantique (France)
+  photo: theo.jpeg
+  role: pc
+- ag:
+  name: Antonio Grarmendia
+  employer: Universidad Autónoma de Madrid (Spain)
+  photo: antoniog.jpg
+  role: pc
+- abu:
+  name: Alessio Bucaioni
+  employer: Malardalen University (Sweden)
+  photo: alessio.jpg
   role: pc
 - jpt: 
   name: Juha-Pekka Tolvanen
   employer: MetaCase (Finland)
   photo: juha.jpg
   role: pc
-- mz:
-  name: Man Zhang
-  employer: Kristiania University College, Oslo (Norway)
+- hk:
+  name: Harald Koenig
+  employer: University of applied Sciences FHDW Hannover (Germany)
   photo: abl.jpg
+  role: pc
+- fba:
+  name: Francesco Basciani
+  employer: Gran Sasso Science Institute (Italy)
+  photo: bascio.jpeg
+  role: pc
+- id:
+  name: Istvan David
+  employer: McMaster University (Canada)
+  photo: istvan.jpg
+  role: pc
+- li2:
+  name: Ludovico Iovino
+  employer: Gran Sasso Science Institute (Italy)
+  photo: ludo.jpg
   role: pc
 - jdr:
   name: Juri Di Rocco
