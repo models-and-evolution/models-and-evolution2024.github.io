@@ -7,6 +7,6 @@
   date: Sept, 22 9:50
   photo: abl.png
   linkedin: none
-  keynotes: false
+  keynotes: true
   sitemap: false
 ---

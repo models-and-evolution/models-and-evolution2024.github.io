@@ -30,7 +30,7 @@ title: Models and Evolution - Important Dates
                 <p>
                We follow the defined deadlines by the MODELS workshop co-chairs.
                 <ul>
-                    <li> Abstract submission: Fri 28 June, 2024.</li>
+                    <li> Abstract submission: <s>Fri 28 June, 2024</s>Fri 5 July, 2024.</li>
                     <li> Paper submission: Fri 5 July, 2024. </li>
                     <li> Author notification: Wed 7 August, 2024. </li>
                     <li> Camera-ready: Fri 16 August, 2024. </li>
