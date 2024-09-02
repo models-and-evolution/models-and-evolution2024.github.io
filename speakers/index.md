@@ -26,17 +26,62 @@ title: Models and Evolution - Program
             </div>
         </div>
         <div class="row">
-            {% assign speakers = site.speakers | sort_natural: 'title' %}
-            {% for speaker in speakers %}{% if speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
+            <h4 class="mb-0 mt-3">Session 1 - Keynote</h4>
+            {% assign speakers = site.speakers | sort_natural: 'session' %}
+            {% for speaker in speakers %}{% if speaker.session == 1 and speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
             <div class="col-lg-12 col-sm-4">
                 <div class="speaker-block mb-5">
                     
                     <div class="speaker-info">
 
                         <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
-                        <h6 class="mb-0 mt-3">Authors{{ speaker.authors}}</h6>
+                        <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
-                        <h6 class="mb-0 mt-3">Presenter: {{ speaker.date}}</h6>
+                        <h6 class="mb-0 mt-3">Date : {{ speaker.date}}</h6>
+                        <p>{{ speaker.abstract }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endif %}{% else %}
+                Rien à voir ici.
+            {% endfor %}
+        </div>
+        <hr>
+        <div class="row">
+            <h4 class="mb-0 mt-3">Session 2 - Model Development and Quality Assurance</h4>
+            {% assign speakers = site.speakers | sort_natural: 'session' %}
+            {% for speaker in speakers %}{% if speaker.session == 2 and speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
+            <div class="col-lg-12 col-sm-4">
+                <div class="speaker-block mb-5">
+                    
+                    <div class="speaker-info">
+
+                        <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
+                        <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
+                        <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
+                        <h6 class="mb-0 mt-3">Date : {{ speaker.date}}</h6>
+                        <p>{{ speaker.abstract }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endif %}{% else %}
+                Rien à voir ici.
+            {% endfor %}
+        </div>
+        <hr>
+        <div class="row">
+            <h4 class="mb-0 mt-3">Session 3 - Model Evolution and Conflict Management</h4>
+            {% assign speakers = site.speakers | sort_natural: 'session' %}
+            {% for speaker in speakers %}{% if speaker.session == 3 and speaker.title != 'TBD' and speaker.title != 'Volcamp team' and speaker.photo != 'none' %}
+            <div class="col-lg-12 col-sm-4">
+                <div class="speaker-block mb-5">
+                    
+                    <div class="speaker-info">
+
+                        <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
+                        <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
+                        <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
+                        <h6 class="mb-0 mt-3">Date : {{ speaker.date}}</h6>
                         <p>{{ speaker.abstract }}</p>
                     </div>
                 </div>
