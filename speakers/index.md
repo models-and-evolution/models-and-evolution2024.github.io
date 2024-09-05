@@ -37,7 +37,7 @@ title: Models and Evolution - Program
                         <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
                         <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
-                        <h6 class="mb-0 mt-3">Date : {{ speaker.date}}</h6>
+                        <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
                         <p>{{ speaker.abstract }}</p>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ title: Models and Evolution - Program
                         <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
                         <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
-                        <h6 class="mb-0 mt-3">Date : {{ speaker.date}}</h6>
+                        <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
                         <p>{{ speaker.abstract }}</p>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ title: Models and Evolution - Program
                         <h5 class="mb-0 mt-3">{{ speaker.title }}</h5>
                         <h6 class="mb-0 mt-3">Authors: {{ speaker.authors}}</h6>
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
-                        <h6 class="mb-0 mt-3">Date : {{ speaker.date}}</h6>
+                        <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
                         <p>{{ speaker.abstract }}</p>
                     </div>
                 </div>
