@@ -39,6 +39,7 @@ title: Models and Evolution - Program
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
                         <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
                         <p>{{ speaker.abstract }}</p>
+                        {% if speaker.presentation %} <a href="{{site.url}}/asset/presentations/{{speaker.presentation}}">Slides</a>{% endif %}
                     </div>
                 </div>
             </div>
@@ -61,6 +62,7 @@ title: Models and Evolution - Program
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
                         <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
                         <p>{{ speaker.abstract }}</p>
+                        {% if speaker.presentation %} <a href="{{site.url}}/asset/presentations/{{speaker.presentation}}">Slides</a>{% endif %}
                     </div>
                 </div>
             </div>
@@ -83,6 +85,7 @@ title: Models and Evolution - Program
                         <h6 class="mb-0 mt-3">Presenter: {{ speaker.presenter}}</h6>
                         <h6 class="mb-0 mt-3">{{ speaker.time}}</h6>
                         <p>{{ speaker.abstract }}</p>
+                        {% if speaker.presentation %} <a href="{{site.url}}/asset/presentations/{{speaker.presentation}}">Slides</a>{% endif %}
                     </div>
                 </div>
             </div>
